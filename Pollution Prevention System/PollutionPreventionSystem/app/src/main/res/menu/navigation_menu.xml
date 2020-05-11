@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <item android:id="@+id/predict"
+        android:title="Predict health risk"/>
+    <item android:id="@+id/classification"
+        android:title="Area Classification"/>
+    <item android:id="@+id/challengefriend"
+        android:title="Carbon Footprint Rank"/>
+    <item android:id="@+id/signout"
+        android:title="Signout"/>
+</menu>

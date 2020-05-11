@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Pollution Prevention System</string>
+    <string name="Open">open</string>
+    <string name="Close">close</string>
+
+    <string name="So2_Level_is">So2 Level is:</string>
+</resources>
