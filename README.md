@@ -1,6 +1,6 @@
 # HACKVSIT
 
-## Cities are currently facing high pollution rates because of rapid change in climate. An individual is unaware of how much pollution he or she is exposing by being in contact with polluted air. We are aiming to make a user friendly android application named "Pollution Prevention System". Due to high rise in use of Smart phones, sensors embedded into them will be used to detect temperature, humidity, CO level etc. 
+ Cities are currently facing high pollution rates because of rapid change in climate. An individual is unaware of how much pollution he or she is exposing by being in contact with polluted air. We are aiming to make a user friendly android application named "Pollution Prevention System". Due to high rise in use of Smart phones, sensors embedded into them will be used to detect temperature, humidity, CO level etc. 
 
 So, basically our main aim is :
 - How environment affect human health, and,
